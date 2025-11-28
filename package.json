@@ -6,10 +6,18 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerlaw/TP-CI-CD.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aerlaw/TP-CI-CD/issues"
+  },
+  "homepage": "https://github.com/aerlaw/TP-CI-CD#readme",
   "devDependencies": {
     "jest": "^30.2.0"
   }
