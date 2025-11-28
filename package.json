@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aerlaw/TP-CI-CD.git"
+    "url": "git+https://github.com/aerlaw/tp-ci-cd.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/aerlaw/TP-CI-CD/issues"
+    "url": "https://github.com/aerlaw/tp-ci-cd/issues"
   },
-  "homepage": "https://github.com/aerlaw/TP-CI-CD#readme",
+  "homepage": "https://github.com/aerlaw/tp-ci-cd#readme",
   "devDependencies": {
     "jest": "^30.2.0"
   }
